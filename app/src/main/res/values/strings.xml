@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM Master</string>
+    <string name="connection_problem_message">Failed getting data from server</string>
+</resources>
